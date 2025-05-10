@@ -32,26 +32,6 @@ A simple console-based Hospital Management System written in C++. This system ma
 
 ---
 
-## ▶️ How to Compile and Run
-
-1. **Compile the program**:
-   ```bash
-   g++ -std=c++17 -o hospital_system main.cpp
-   ```
-
-2. **Run the executable**:
-   ```bash
-   ./hospital_system
-   ```
-
-> 💡 Note: If you are on Windows, the command to run the program will be:
->
-> ```cmd
-> hospital_system.exe
-> ```
-
----
-
 ## 📊 Sample Output
 
 ```
